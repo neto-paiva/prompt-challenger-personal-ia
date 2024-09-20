@@ -121,3 +121,6 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+- Primeira versão do prompt: [prompt-v1_neto-paiva.md](https://github.com/neto-paiva/prompt-challenger-personal-ia/blob/main/prompts/prompt-v1_neto-paiva.md)
+- Primeiro teste do prompt feito com o modelo Gemini/Google: [resultado-v1_gemini.md](https://github.com/neto-paiva/prompt-challenger-personal-ia/blob/main/prompts/resultado-v1_gemini.md) 
